@@ -1,1 +1,1 @@
-bot: python3 VKbot_code.py
+worker: python VKbot_code.py

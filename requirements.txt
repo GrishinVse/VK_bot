@@ -1,0 +1,7 @@
+vk
+random
+json
+sqlite3
+vk_api.longpoll
+VkLongPoll
+VkEventType
